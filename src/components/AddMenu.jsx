@@ -24,7 +24,7 @@ const AddMenu = ({ onAdd }) => {
             <input
                 type="text"
                 ref={inputRef}
-                placeholder='먹고 싶은 메뉴를 추가해요(예:김밥)' />
+                placeholder='가고 싶은 나라를 추가하세요.(예:스위스)' />
             <button type='submit'>추가</button>
         </form>
     )
