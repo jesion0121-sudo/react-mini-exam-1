@@ -1,0 +1,16 @@
+export const flagMap = [
+    { name: '대한민국', flag: '🇰🇷' },
+    { name: '한국', flag: '🇰🇷' },
+    { name: '일본', flag: '🇯🇵' },
+    { name: '중국', flag: '🇨🇳' },
+    { name: '태국', flag: '🇹🇭' },
+    { name: '베트남', flag: '🇻🇳' },
+    { name: '인도네시아', flag: '🇮🇩' },
+    { name: '인도', flag: '🇮🇳' },
+    { name: '스위스', flag: '🇨🇭' },
+    { name: '프랑스', flag: '🇫🇷' },
+    { name: '이탈리아', flag: '🇮🇹' },
+    { name: '아이슬란드', flag: '🇮🇸' },
+    { name: '미국', flag: '🇺🇸' },
+    { name: '호주', flag: '🇦🇺' },
+]
