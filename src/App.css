@@ -156,6 +156,7 @@ input {
 }
 
 .reset {
+    margin: 10px;
     color: var(--text);
     background: #ddd
 }
